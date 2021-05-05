@@ -1,0 +1,10 @@
+n1 = int(input("ingrese un numero: "))
+n2 = int(input("ingrese otro numero: "))
+
+print(f"La suma es: {n1 + n2}")
+print(f"La resta es: {n1 - n2}")
+print(f"El producto es: {n1 * n2}")
+print(f"La division es: {n1 / n2}")
+print(f"El resto es: {n1 % n2}")
+print(f"El promedio es: {(n1 + n2)/2}")
+print(f"El doble producto del primero menos el segundo es: {(n1 * n1) - n2}")
