@@ -4,7 +4,7 @@ print(os.getcwd())
 
 # escribo el path de la ruta donde ejecutaré el script
 import sys
-sys.path.append('escribir_ruta_hasta_llegar_al_paquete')
+sys.path.append('c:/Users/Notebook/Documents/git/curso_python/parte_9/ejemplo/paquete')
 # Documentación de importación de módulos
 # https://docs.python.org/es/3/tutorial/modules.html#intra-package-references
 
